@@ -1,0 +1,21 @@
+Please create 'pixel-perfect' layout (html+css base) & add js if needed. Use colors, fonts etc as at the mock-up. The result should be the working copy of the .psd.
+
+Note: your code is going to be used only for you professional level estimation.
+
+
+
+Technical Requirements:
+
+TYPE: DIV Layout
+------------------------------------------------------------------------------
+
+NOTES
+------------------------------------------------------------------------------
+Layout Width - Fixed
+Alignment - Center
+Vertical Alignment - Top
+Browser Compatibility - FF (last version), Google Chrome (last version), IE8-9
+Resizable Fonts - No
+Comments / Remarks - Yes
+Load Speed Optimization - Yes
+Dynamic Rollovers - Yes
